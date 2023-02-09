@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Python', 'Postgresql', 'PowerBI', 'Tableau', 'SAS', 'R-studio'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +135,26 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Andrew and I enjoy creating visualisations and machine learning models 
+              ever since i step onto the journey of data science world. I used to hate programming because
+              of its complexity but after some time i start to see it as a challenge and i am made happy to solve
+              the problem and simplify it to be good data analyst. 
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              <a href="https://www.hlb.com.my/en/personal-banking/home.html/">a corporation</a>,{' '}
+              <a href="https://www.meekco.asia//">an ecommerce company</a>,{' '}
+              <a href="hhttps://www.boostjuicebars.com.my//">FNB</a>
+              
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+             
+              I also recently<a href="https://university.sunway.edu.my/">
+                graduated from Sunway University majoring in Data Analytics.
+              </a>
+              It was fun while it lasted but now it is time for me to look for a full time job!
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
