@@ -1,15 +1,13 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Coronavirus analysis with BI'
+cover: './crona.PNG'
+github: 'https://app.powerbi.com/groups/me/reports/2c242a7e-f79f-428f-81af-2715ae319b93/ReportSection7d57439278309be8c90a'
+external: 'https://app.powerbi.com/groups/me/reports/2c242a7e-f79f-428f-81af-2715ae319b93/ReportSection7d57439278309be8c90a'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Power BI
+  - Data Visualisation
+  
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+ -Completed a Power BI dashboard for global coronavirus analysis, which ncludes metrics such as total deaths, total recoveries, and active cases per country
