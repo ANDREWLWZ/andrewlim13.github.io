@@ -1,12 +1,11 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2019-01-01'
+title: 'Waiter'
+company: 'Boost'
+location: 'Desa Park'
+range: 'JAN - MAR 2019'
+url: 'https://www.boostjuicebars.com.my/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Demonstrated outstanding customer service skills, accommodating special requests and contributing to a pleasant juice drinking experience by responding promptly to customer inquiries and needs.
+- Increased satisfaction ratings from 4.4 to 4.5 while ensuring that all orders were accurately fulfilled in google reviews.
