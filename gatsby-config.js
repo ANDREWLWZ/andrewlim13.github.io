@@ -1,11 +1,13 @@
 const config = require('./src/config');
-
+module.exports = {
+  //configuration object
+}
 module.exports = {
   siteMetadata: {
-    title: 'Brittany Chiang',
+    title: 'Andrew Lim',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Andrew Lim is a data analyst/scientist who specializes in data visualisation and machine learnning.',
+    siteUrl: 'https://andrewlim13githubiomain61479.gatsbyjs.io/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
