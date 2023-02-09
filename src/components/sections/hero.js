@@ -61,16 +61,11 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Andrew Lim.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">Data Analyst/Scientist</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
+      Dynamic and analytical data professional with experience in data analysis and visualization. Skilled in extracting and manipulating large datasets using SQL and Python, and experienced in using statistical techniques to identify trends and patterns.
         .
       </p>
     </>
@@ -78,10 +73,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://www.linkedin.com/in/andrew-lim713/"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+    Check out my Linkedin
     </a>
   );
 
