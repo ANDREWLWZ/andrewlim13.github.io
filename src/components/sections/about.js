@@ -136,7 +136,7 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Andrew and I enjoy creating visualisations and machine learning models 
-              ever since i step onto the journey of data science world. I used to hate programming because
+              ever since i embark my journey into the world of Data Science. I used to hate programming because
               of its complexity but after some time i start to see it as a challenge and i am made happy to solve
               the problem and simplify it to be good data analyst. 
             </p>
