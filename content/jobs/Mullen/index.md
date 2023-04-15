@@ -1,11 +1,22 @@
 ---
-date: '2019-01-01'
-title: 'Waiter'
+date: '2023-01-01'
+title: 'Data Scientist'
 company: 'Boost'
 location: 'Desa Park'
-range: 'JAN - MAR 2019'
-url: 'https://www.boostjuicebars.com.my/'
+range: 'Present'
+url: 'https://maskex.com/en'
 ---
 
-- Demonstrated outstanding customer service skills, accommodating special requests and contributing to a pleasant juice drinking experience by responding promptly to customer inquiries and needs.
-- Increased satisfaction ratings from 4.4 to 4.5 while ensuring that all orders were accurately fulfilled in google reviews.
+- Developed an interactive Power BI dashboard and a ChatGPT API-integrated Telegram chatbot, leading to
+enhanced customer support, streamlined communication, and increased customer satisfaction.
+
+- Utilized advanced data analysis techniques with Python libraries (pandas, NumPy, matplotlib) to drive insights on
+customer behavior, trading market trends, and asset management, resulting in optimized business strategies and
+improved decision-making.
+
+- Leveraged Power BI DAX and Excel to extract relevant columns for data analysis to inform strategic business
+decisions.
+
+- Responsible for ad hoc task such as creating responsive websites.
+
+- Connecting database from company's backend to our livechatbot.
